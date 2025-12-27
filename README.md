@@ -65,16 +65,16 @@ git clone https://github.com/Yousef-8/CarField.git
 ```
 **3️. Create the Database**
 
--Open MySQL Workbench
+- Open MySQL Workbench
 
--Create a new database:
+- Create a new database:
 
-CREATE DATABASE carfield_database;
+  CREATE DATABASE carfield_database;
 
 
--Open the db.sql file
+- Open the db.sql file
 
--Execute the script to create tables
+- Execute the script to create tables
 
 **4️. Configure Database Connection**
 
